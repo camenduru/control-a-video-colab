@@ -34,4 +34,6 @@ https://github.com/Weifeng-Chen/control-a-video
 https://arxiv.org/abs/2305.13840
 
 ## Output
+https://github.com/camenduru/control-a-video-colab/assets/54370274/4afaea76-b804-417f-b618-4c75e7a0969f
 
+![9e76a4a0-993d-4487-9d38-090f89387a53](https://github.com/camenduru/control-a-video-colab/assets/54370274/19eca168-95c1-433f-b607-fdc34bc84c33)
