@@ -34,6 +34,13 @@ https://github.com/Weifeng-Chen/control-a-video
 https://arxiv.org/abs/2305.13840
 
 ## Output
-https://github.com/camenduru/control-a-video-colab/assets/54370274/4afaea76-b804-417f-b618-4c75e7a0969f
-
-![9e76a4a0-993d-4487-9d38-090f89387a53](https://github.com/camenduru/control-a-video-colab/assets/54370274/19eca168-95c1-433f-b607-fdc34bc84c33)
+<table><tbody><tr><td><center>
+input
+<br>
+<video src="https://user-images.githubusercontent.com/54370274/250072255-4afaea76-b804-417f-b618-4c75e7a0969f.mp4" data-canonical-src="https://user-images.githubusercontent.com/54370274/250072255-4afaea76-b804-417f-b618-4c75e7a0969f.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px">
+</video>
+</center></td><td><center>
+a bear walking through stars, artstation.
+<br>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/54370274/250072935-19eca168-95c1-433f-b607-fdc34bc84c33.gif" alt="a bear walking through stars, artstation" style="width: 300px;">
+</center></td></tr></tbody></table>
