@@ -8,6 +8,7 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/control-a-video-colab/blob/main/control_a_video_colab.ipynb) | control_a_video_colab
 
 ## Tutorial
 ```
