@@ -71,6 +71,9 @@ https://github.com/Weifeng-Chen/control-a-video
 ## Paper
 https://arxiv.org/abs/2305.13840
 
+## Page
+https://controlavideo.github.io/
+
 ## Output
 <table><tbody><tr><td><center>
 input
